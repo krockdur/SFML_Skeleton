@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/krock/Dev/SFML/SFML_Skeleton/KrockEngine/src/src/../build/main'
-relocations:     []
-...
