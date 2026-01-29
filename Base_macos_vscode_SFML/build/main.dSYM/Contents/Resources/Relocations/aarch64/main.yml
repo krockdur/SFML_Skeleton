@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/krock/Dev/SFML/Base_macos_vscode_SFML/build/main'
+relocations:     []
+...
