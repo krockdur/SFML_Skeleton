@@ -10,7 +10,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}/build/${fileBasenameNoExtension}",
+                "${fileDirname}/../build/${fileBasenameNoExtension}",
                 "-I/Users/krock/Dev/libs/SFML-3.0.2/include",
                 "-L/Users/krock/Dev/libs/SFML-3.0.2/lib",
                 "-lsfml-graphics",

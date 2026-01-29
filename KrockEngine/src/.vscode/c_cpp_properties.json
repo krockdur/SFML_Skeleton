@@ -4,6 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
+                "${workspaceFolder}/headers/**",
                 "/Users/krock/Dev/libs/SFML-3.0.2/include"
             ],
             "defines": [],
